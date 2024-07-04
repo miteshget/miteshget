@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 A-Team DemoLISHERS
-![Logo](team_demolishers.png)
+![Logo](a_team_demolishers.png)
 
 I am a dedicated professional, Began my career at Red Hat as an Instructor, laying the foundation for my journey with the company. Since joining in 2018, I have continually demonstrated my passion for technology and my commitment to excellence. My primary focus has been enabling partners to effectively utilize Red Hat's Ansible Automation Platform and OpenShift products, showcasing my deep expertise in these technologies.
 
